@@ -1,0 +1,6 @@
+# Ignore secrets and Python environment
+venv/
+__pycache__/
+*.pyc
+serviceAccountKey.json
+.env
